@@ -38,6 +38,10 @@ Python, llama.cpp/GGUF, Rich, prompt-toolkit, pytest.
 
 The private project validates agent-core behavior, daemon start/stop lifecycle, streaming response handling, and RTL text rendering through an automated pytest suite. This showcase does not include the test suite itself, only the fact that one exists and what it covers.
 
+## Visual overview
+
+![AURA architecture](assets/aura-architecture.png)
+
 ## Demo
 
 No screenshots are included yet — this section is reserved for a future terminal-session recording or screenshot once one is captured and reviewed for anything session/path-specific before publishing.
