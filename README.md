@@ -40,6 +40,8 @@ The private project validates agent-core behavior, daemon start/stop lifecycle, 
 
 ## Visual overview
 
+![AURA](assets/aura-hero.png)
+
 ![AURA architecture](assets/aura-architecture.png)
 
 ## Demo
